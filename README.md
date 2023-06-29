@@ -19,6 +19,10 @@ You may also see any lint errors in the console.
 
 Open  https://todo-app-pooja.firebaseapp.com/ to view it in your browser.
 
+### `TechStack used`
+
+React Tailwind Firebase cloud Storage Firebase hoisting
+
 
 ### `yarn test`
 
